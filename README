@@ -37,8 +37,7 @@ MORE INFORMATION AND ADDITONAL RESOURCES
 
     - LISF and applications: https://lis.gsfc.nasa.gov 
     - LIS discussion board (Q&A on finer details of LIS): https://github.com/NASA-LIS/LISF/discussions
-    - Archived LDT and LIS config files and corresponding output from simulations performed with the Noah-MP LSM and HyMAP 
-      (Amazon region, Jan. 2002 - Sep. 2019), courtesy of Cristina Recalde: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1/YQDI0F 
+    - Archived LDT and LIS config files and corresponding output from simulations performed with the Noah-MP LSM and HyMAP (Amazon region, Jan. 2002 - Sep. 2019), courtesy of Cristina Recalde: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1/YQDI0F 
     - Options for LIS Framework config files (namelist options):
       * ldt.config README: https://github.com/NASA-LIS/LISF/blob/master/ldt/configs/ldt.config.adoc
       * lis.config README: https://github.com/NASA-LIS/LISF/blob/master/lis/configs/lis.config.adoc 
