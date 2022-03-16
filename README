@@ -1,1 +1,63 @@
-Last Updated March 2022
+Last Updated March 2022 by Tashiana Osborne - JHU
+
+*******************
+KEY ACRONYMS
+*******************
+
+  JHU:    Johns Hopkins University (Baltimore, MD, USA)
+  LDAS:   Land Data Assimilation System
+  LISF:   Land Information System Framework (the LDAS is run within this 3-component system)
+           (1) LDT: Land surface Data Toolkit
+           (2) LIS: LIS Core; main component of LISF (where LDAS is ran)
+           (3) LVT: Land surface Verification Toolkit
+  MEWS:   Malaria Early Warning System 
+  NASA:   The National Aeronautics and Space Administration
+  USFQ:   Universidad San Francisco de Quito (Quito, Ecuador)
+  WTSA:   Western Tropical South America
+
+***********************************
+INCLUDED IN THIS DATA REPOSITORY
+***********************************
+
+(1) Data extraction, analysis, and post-processing scripts of LDAS (LIS) output
+(2) New User Startup Guide for USFQ LDAS users
+(3) Input LIS and LDT configuration (.config) files used to run the LDAS (LIS)
+
+... for the NASA Land Information System (LIS) which involves a Land Data Assimilation System (LDAS). 
+LIS is employed here as part of the Malaria Early Warning System (MEWS) for the Amazon region. 
+
+This project is an interdisciplinary (geosciences and epidemiology), international, and multi-institutional
+collaboration between researchers at the Universidad San Francisco de Quito, Duke University, Johns Hopkins 
+University, and others focused on the Amazon Rainforest and/or Western Tropical region of South America.
+
+********************************************
+MORE INFORMATION AND ADDITONAL RESOURCES
+********************************************
+
+    - LISF and applications: https://lis.gsfc.nasa.gov 
+    - LIS discussion board (Q&A on finer details of LIS): https://github.com/NASA-LIS/LISF/discussions
+    - Archived LDT and LIS config files and corresponding output from simulations performed with the Noah-MP LSM and HyMAP 
+      (Amazon region, Jan. 2002 - Sep. 2019), courtesy of Cristina Recalde: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1/YQDI0F 
+    - Options for LIS Framework config files (namelist options):
+      * ldt.config README: https://github.com/NASA-LIS/LISF/blob/master/ldt/configs/ldt.config.adoc
+      * lis.config README: https://github.com/NASA-LIS/LISF/blob/master/lis/configs/lis.config.adoc 
+    - Source code for LDT component: https://github.com/NASA-LIS/LISF/tree/master/ldt/core (fortran; note modularity - processes are separated into modules)
+    - Source code for LIS component: https://github.com/NASA-LIS/LISF/tree/master/lis/core 
+    - Quick intro to ncview: http://cirrus.ucsd.edu/~pierce/software/ncview/quick_intro.html  
+
+********************************************
+REFERENCES
+********************************************
+
+NASA LIS -- Kumar, S.V., C.D. Peters-Lidard, Y. Tian, P.R. Houser, J. Geiger, S. Olden, L. Lighty, J.L. Eastman, B. Doty, P. Dirmeyer, J. Adams, K. Mitchell, 
+E.F. Wood, and J. Sheffield, 2006: Land Information System - An interoperable framework for high resolution land surface modeling. Environ. 
+Modeling & Software, 21, 1402-1415, https://doi.org/10.1016/j.envsoft.2005.07.004.
+
+Archived LDAS Output for Amazon Region -- Recalde, C., B.F. Zaitchik, W.K. Pan, 2021: Data associated with: Retrospective land surface model simulations of 
+Western Tropical South America (WTSA), https://doi.org/10.7281/T1/YQDI0F, Johns Hopkins University Data Archive, V1.
+
+Additional NASA LIS Publications -- https://lis.gsfc.nasa.gov/publications 
+
+
+
+
