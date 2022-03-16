@@ -19,19 +19,42 @@ KEY ACRONYMS
   WTSA:   Western Tropical South America
 
 ******************************************
-WHAT IS INCLUDED IN THIS REPOSITORY
+PROJECT DESCRIPTION: AMAZON MEWS 
 ******************************************
-
-(1) Scripts for data extraction, analysis, and post-processing of LDAS output (primarily Python and MATLAB)
-(2) New User Startup Guide for LDAS (originally created for USFQ and Collaborators for Dec 2021 Workshop)
-(3) Input LIS and LDT configuration files (.config) used to run the LDAS within LIS
 
 NASA LISF (which contains a Land Data Assimilation System - LDAS) is employed here as part of the 
 Malaria Early Warning System (MEWS) for the Amazon Rainforest region. 
 
 This project is an interdisciplinary (geosciences and epidemiology), international, and multi-institutional
 collaboration between researchers at the Universidad San Francisco de Quito, Duke University, Johns Hopkins 
-University, and others focused on the Amazon and/or Western Tropical region of South America.
+University, and others focused on the Amazon and/or Western Tropical region of South America. 
+
+Broadly, the MEWS project investigates and makes predictions of meteorological, hydrological, land surface, 
+epidemiological and public health, and societal variables and factors that affect malaria risk in the Amazon. 
+Additional foci and factors can also be considered as LIS can be applied to numerous science-societal or 
+science-to-action goals. Materials within this repository are intended to be used as a base on which to 
+build or to apply the LDAS (within LISF) to various projects.
+
+******************************************
+WHAT IS INCLUDED IN THIS REPOSITORY
+******************************************
+
+(1) Scripts for data extraction, analysis, and post-processing of LDAS output (primarily Python and MATLAB)
+(2) New User Startup Guide for LDAS (originally created for USFQ and Collaborators for Dec 2021 Workshop)
+(3) Input LIS and LDT configuration files (.config) used to run the LDAS within LIS
+(4) Possible Inclusion in the Future: Scripts from researchers at Duke University (Mark Janko, Willian Pan, and others) to process LDAS output for 
+    use as input for epidemiological statistic models
+
+
+********************************************
+USE OF SCRIPTS AND OTHER MATERIAL 
+********************************************
+Authors of works included in this repository intend for materials to be open-source and easily accessible for others who are interested in using LISF.
+Please refer to the LICENSE document (osbornesci/Amazon_MEWS_LDAS/LICENSE) for details on usage of materials. 
+
+(If the LICENSE document is not yet available, it will be included in the future. Please email tosbor11@jhu.edu if this is the case and you are 
+interested in using any of the materials currently existing within this repository.)
+
 
 ********************************************
 ADDITIONAL INFORMATION AND RESOURCES
