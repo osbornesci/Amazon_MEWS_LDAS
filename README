@@ -20,16 +20,16 @@ KEY ACRONYMS
 WHAT IS INCLUDED IN THIS DATA REPOSITORY
 ******************************************
 
-(1) Data extraction, analysis, and post-processing scripts of LDAS (LIS) output
-(2) New User Startup Guide for USFQ LDAS users
-(3) Input LIS and LDT configuration (.config) files used to run the LDAS (LIS)
+(1) Scripts for data extraction, analysis, and post-processing of LDAS output (primarily Python and MATLAB)
+(2) New User Startup Guide for LDAS (originally created for USFQ and Collaborators for Dec 2021 Workshop)
+(3) Input LIS and LDT configuration files (.config) used to run the LDAS within LIS
 
-... for the NASA Land Information System (LIS) which involves a Land Data Assimilation System (LDAS). 
-LIS is employed here as part of the Malaria Early Warning System (MEWS) for the Amazon region. 
+NASA LISF (which contains a Land Data Assimilation System - LDAS) is employed here as part of the 
+Malaria Early Warning System (MEWS) for the Amazon Rainforest region. 
 
 This project is an interdisciplinary (geosciences and epidemiology), international, and multi-institutional
 collaboration between researchers at the Universidad San Francisco de Quito, Duke University, Johns Hopkins 
-University, and others focused on the Amazon Rainforest and/or Western Tropical region of South America.
+University, and others focused on the Amazon and/or Western Tropical region of South America.
 
 ********************************************
 ADDITIONAL INFORMATION AND RESOURCES
